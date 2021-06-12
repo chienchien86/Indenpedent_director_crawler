@@ -1,2 +1,3 @@
 # Indenpedent_director_crawler
 公開資訊觀測站獨立董事現職、經歷及兼任情形爬蟲
+delete_api
